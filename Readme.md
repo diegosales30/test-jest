@@ -139,4 +139,4 @@ Cria um novo usuário no banco de dados. Todos os campos são obrigatórios
 
 [ ] Implementar uma mensagem de erro quando tentar cadastrar um usuário com os campos em branco
 
-### Happy hacking!
+
